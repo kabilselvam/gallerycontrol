@@ -159,7 +159,6 @@ public class MainActivity extends Activity {
 
 ![Screenshot 2024-04-30 215111](https://github.com/kabilselvam/gallerycontrol/assets/127846320/9959ca24-9f1b-49ef-9a2b-81c951044e4a)
 
-![Screenshot 2024-04-30 215125](https://github.com/kabilselvam/gallerycontrol/assets/127846320/0ecf1f7c-1c45-4ee0-ab05-224e0a2f4ece)
 
 
 ## RESULT
